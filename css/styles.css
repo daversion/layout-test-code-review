@@ -1,0 +1,18 @@
+body {
+  background-color: grey;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+.header {
+  background-color: red;
+}
+.navigation {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+h1 {
+
+}
